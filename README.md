@@ -2,6 +2,6 @@
 My hello world!
 
 
-Hi,hunmans!
+Hi,humans!
 
 How about you,I like node.js.
